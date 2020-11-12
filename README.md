@@ -1,5 +1,5 @@
 # Music_Player
-can play various types of audio files
+a simple music player that has a default album and can play various types of audio files
 
 º Player functions:
 
@@ -17,10 +17,3 @@ can play various types of audio files
    - Music duration;
       + In Numbers,
       + In the loading bar,
-
-
-a simple music player that have a default albumn and can play very types of audio file
-
-º Player Functions:
-
-   - Play audio file;
